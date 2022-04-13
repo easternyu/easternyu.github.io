@@ -22,7 +22,7 @@ tags:
 [root@testlab ~]# useradd -s /sbin/nologin -M nginx
 ```
 
-### 3.创建缓存文件夹并赋予权限
+#### 3.创建缓存文件夹并赋予权限
 
 ```
 [root@testlab ~]# mkdir -pv /var/cache/nginx
